@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/translate_fix"
+        android:title="Translate"/>
+    <item
+        android:id="@+id/other_file"
+        android:title="Other File"/>
+
+</menu>
